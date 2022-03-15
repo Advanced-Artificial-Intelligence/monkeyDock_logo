@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="800px" height="800px" viewBox="0 0 800 800" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>mdc</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Monkeydock-Coin">
+            <circle id="Oval" fill="#688EFF" cx="400" cy="400" r="400"></circle>
+            <text id="D" fill="#FFFFFF" fill-rule="nonzero" transform="translate(316.651869, 476.644771) rotate(90.000000) translate(-316.651869, -476.644771) " font-family="PingFangHK-Regular, PingFang HK" font-size="450" font-weight="normal">
+                <tspan x="157.801869" y="553.644771">D</tspan>
+            </text>
+            <text id="M" font-family="Klee-Demibold, Klee" font-size="239" font-weight="500" fill="#FFFFFF">
+                <tspan x="297.8275" y="372">M</tspan>
+            </text>
+            <circle id="Oval" stroke="#FFFFFF" stroke-width="30" cx="396" cy="403" r="335"></circle>
+        </g>
+    </g>
+</svg>
